@@ -1,3 +1,3 @@
-def current_age_for_birth_year(1984)
-   2016 - 1984
- end
+def current_age_for_birth_year(birth_year)
+  2016 - birth_year
+end
